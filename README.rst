@@ -1,7 +1,7 @@
 django-response-timeout
 ============================
 
-.. image:: https://pypip.in/v/django-response-timeout/badge.png
+.. image:: https://img.shields.io/pypi/v/django-response-timeout.svg
         :target: https://crate.io/packages/django-response-timeout
 
 .. image:: https://travis-ci.org/saulshanabrook/django-response-timeout.png
